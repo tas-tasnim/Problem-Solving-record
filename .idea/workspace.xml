@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ac17ba8-72a9-4cde-89bb-17fa7c79a458" name="Changes" comment="First problem solved">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_one/Problem" beforeDir="false" afterPath="$PROJECT_DIR$/second_one/Problem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_one/Second_solve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_one/second_solve.py" beforeDir="false" afterPath="$PROJECT_DIR$/second_one/second_solve.py" afterDir="false" />
-    </list>
+    <list default="true" id="9ac17ba8-72a9-4cde-89bb-17fa7c79a458" name="Changes" comment="First problem solved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1792830195286</updated>
-      <workItem from="1792830196428" duration="4931000" />
+      <workItem from="1792830196428" duration="5525000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm changing">
       <option name="closed" value="true" />
